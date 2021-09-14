@@ -1,4 +1,20 @@
-### Hi there 👋
+## Chaewon Kim 
+
+
+#### 🔭 I’m currently working on ...  
+&nbsp;&nbsp;&nbsp;&nbsp; - Open Software Platform(This belongs to my school class)  
+&nbsp;&nbsp;&nbsp;&nbsp; - MEME-Phoenix/Autonomous-Driving-Cart-MEME  
+&nbsp;&nbsp;&nbsp;&nbsp; - WEB chaechaechan🍒  
+
+#### 🌱 I’m currently learning ...  
+&nbsp;&nbsp;&nbsp;&nbsp; - JAVA, Python  
+&nbsp;&nbsp;&nbsp;&nbsp; - UI/UX Design & Frontend/Backend  
+&nbsp;&nbsp;&nbsp;&nbsp; - NLP 
+
+##
+Senior in Computer Sceince and Engineering at Ewha Womans University   
+[Blog](https://blog.naver.com/cwkim0314)
+
 
 <!--
 **cwkim0314/cwkim0314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

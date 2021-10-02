@@ -8,7 +8,7 @@
 
 #### 🌱 I’m currently learning ...  
 &nbsp;&nbsp;&nbsp;&nbsp; - JAVA, Python  
-&nbsp;&nbsp;&nbsp;&nbsp; - UI/UX Design & Frontend/Backend  
+&nbsp;&nbsp;&nbsp;&nbsp; - WEB Programming(html/css/javascript)
 &nbsp;&nbsp;&nbsp;&nbsp; - NLP  
 &nbsp;&nbsp;&nbsp;&nbsp; - Data Science (R/Python)
 

@@ -2,9 +2,8 @@
 
 
 #### 🔭 I’m currently working on ...  
-&nbsp;&nbsp;&nbsp;&nbsp; - Open Software Platform(This belongs to my school class)  
-&nbsp;&nbsp;&nbsp;&nbsp; - MEME-Phoenix/Autonomous-Driving-Cart-MEME  
 &nbsp;&nbsp;&nbsp;&nbsp; - WEB chaechaechan🍒  
+&nbsp;&nbsp;&nbsp;&nbsp; - Creating Videos [Youtube](https://www.youtube.com/channel/UC2kUVD1FHfNLtZRXI4Xm9Nw/featured)
 
 #### 🌱 I’m currently learning ...  
 &nbsp;&nbsp;&nbsp;&nbsp; - JAVA, Python  

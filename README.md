@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; - Data Science (R/Python)
 
 ##
-Senior in Computer Sceince and Engineering at Ewha Womans University   
+Majored in Computer Science and Engineering at Ewha Womans University   
 [Blog](https://blog.naver.com/cwkim0314)
 
 

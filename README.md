@@ -7,7 +7,7 @@
 
 #### 🌱 I’m currently learning ...   
 &nbsp;&nbsp;&nbsp;&nbsp; - WEB Programming(react/vue/javascript)  
-&nbsp;&nbsp;&nbsp;&nbsp; - JAVA, Python 
+&nbsp;&nbsp;&nbsp;&nbsp; - JAVA, Python  
 &nbsp;&nbsp;&nbsp;&nbsp; - NLP  
 &nbsp;&nbsp;&nbsp;&nbsp; - Data Science (R/Python)
 

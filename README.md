@@ -2,18 +2,19 @@
 
 
 #### 🔭 I’m currently working on ...  
-&nbsp;&nbsp;&nbsp;&nbsp; - WEB chaechaechan🍒  
+&nbsp;&nbsp;&nbsp;&nbsp; - my WEB(Blog)🍒  
 &nbsp;&nbsp;&nbsp;&nbsp; - Creating Videos -> [Youtube](https://www.youtube.com/channel/UC2kUVD1FHfNLtZRXI4Xm9Nw/featured)
 
-#### 🌱 I’m currently learning ...  
-&nbsp;&nbsp;&nbsp;&nbsp; - JAVA, Python  
-&nbsp;&nbsp;&nbsp;&nbsp; - WEB Programming(html/css/javascript)  
+#### 🌱 I’m currently learning ...   
+&nbsp;&nbsp;&nbsp;&nbsp; - WEB Programming(react/vue/javascript)  
+&nbsp;&nbsp;&nbsp;&nbsp; - JAVA, Python 
 &nbsp;&nbsp;&nbsp;&nbsp; - NLP  
 &nbsp;&nbsp;&nbsp;&nbsp; - Data Science (R/Python)
 
 ##
-Majored in Computer Science and Engineering at Ewha Womans University   
-[Blog](https://blog.naver.com/cwkim0314)
+2022.03. Majored in Computer Science and Engineering at Ewha Womans University   
+2022.04. Work in Kobe(Japan) as a Web Engineer
+[Blog](https://zenn.dev/chae_rryontop)
 
 
 <!--

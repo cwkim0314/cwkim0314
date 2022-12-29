@@ -3,7 +3,7 @@
 
 #### 🔭 I’m currently working on ...  
 &nbsp;&nbsp;&nbsp;&nbsp; - Web Engineer（Frontend, Backend, Design)   
-&nbsp;&nbsp;&nbsp;&nbsp; - Design and Create my WEB　「　コーヒーを味わいたい　」   
+&nbsp;&nbsp;&nbsp;&nbsp; - Design and Create my WEB: コーヒーを味わいたい　   
 &nbsp;&nbsp;&nbsp;&nbsp; - Create Videos [Youtube](https://www.youtube.com/channel/UC2kUVD1FHfNLtZRXI4Xm9Nw/featured)   
 &nbsp;&nbsp;&nbsp;&nbsp; - Do some design works   
 

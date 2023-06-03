@@ -3,13 +3,9 @@
 
 #### 🔭 I’m currently working on ...  
 &nbsp;&nbsp;&nbsp;&nbsp; - Web Engineer（Frontend, Backend, Design)   
-&nbsp;&nbsp;&nbsp;&nbsp; - Design and Create my WEB: 珈琲を味わいたい　   
+&nbsp;&nbsp;&nbsp;&nbsp; - Design and Create my WEB　   
 &nbsp;&nbsp;&nbsp;&nbsp; - Create Videos [Youtube](https://www.youtube.com/channel/UC2kUVD1FHfNLtZRXI4Xm9Nw/featured)   
 &nbsp;&nbsp;&nbsp;&nbsp; - Do some design works   
-
-#### 🌱 I’m currently learning ...   
-&nbsp;&nbsp;&nbsp;&nbsp; - WEB Front(react.js, javascript, typescript, node.js etc)  
-&nbsp;&nbsp;&nbsp;&nbsp; - Backend(python, flask, go etc)  
 
 ##
 2022.03. Majored in Computer Science and Engineering at Ewha Womans University   

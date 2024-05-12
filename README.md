@@ -10,6 +10,7 @@
 ##
 2022.03. Majored in Computer Science and Engineering at Ewha Womans University   
 2022.04. Working in Kobe(Japan) as a Web Engineer   
+2023.08. Working in Osaka(Japan) as a Web&System Engineer
    
 [Blog: Zenn](https://zenn.dev/chae_rryontop)
 
